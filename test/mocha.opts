@@ -1,0 +1,4 @@
+./**/*.specs.js
+--ui bdd
+--reporter mocha-minimalist-reporter
+--require babel/register
